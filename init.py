@@ -2,6 +2,7 @@ import keyboard
 import time
 import speech_recognition as sr
 import pyaudio
+#Includes code from https://www.simplifiedpython.net/speech-recognition-python/
 
 writeString = ""
 
